@@ -19,7 +19,7 @@ A lightweight, dual-mode data storage library in JavaScript that provides both i
 Since this is not an npm module, you can simply clone the repository and use the code directly in your project.
 
 ```bash
-git clone https://github.com/your-username/store.git
+[https://github.com/ravindudil5han/store-js.git](https://github.com/ravindudil5han/store-js.git)
 ```
 
 After cloning, require the `Store` class in your code:
